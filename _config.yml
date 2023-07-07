@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lauren Leek"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "PhD researcher EUI and PhD trainee ECB"
   location         : "Frankfurt/Firenze/London"
   employer         :
