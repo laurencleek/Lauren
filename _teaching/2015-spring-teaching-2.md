@@ -4,7 +4,7 @@ collection:
 type: "PhD seminar"
 permalink: /teaching/2015-spring-teaching-1
 venue: "European University Institute, SPS Department"
-date: 2022
+date: 2015
 location: "Firenze, Italy"
 ---
 
