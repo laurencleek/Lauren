@@ -4,7 +4,7 @@ collection: teaching
 type: "PhD seminar"
 permalink: /teaching/quant_teaching
 date: 2022-09-01
-venue: "European University Institute, SPS Department"s
+venue: "European University Institute, SPS Department"
 location: "Firenze, Italy"
 ---
 
