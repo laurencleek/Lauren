@@ -16,7 +16,7 @@ url                      : https://laurencleek.github.io
 baseurl                  : "/laurencleek" # the subpath of your site, e.g. "/blog"
 repository               : "laurencleek/laurencleek.github.io"
 teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : false # true, false (default)F
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Lauren Leek"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "PhD researcher EUI and PhD trainee ECB"
   location         : "Frankfurt/Firenze/London"
   employer         :
