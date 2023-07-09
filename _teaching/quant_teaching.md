@@ -1,8 +1,9 @@
 ---
 title: "Teaching assistant in Introduction to Quantitative methods"
-collection: 
+collection: teaching
 type: "PhD seminar"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/quant_teaching
+date: 2022-09-01
 venue: "European University Institute, SPS Department"s
 location: "Firenze, Italy"
 ---
