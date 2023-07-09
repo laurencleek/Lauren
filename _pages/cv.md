@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-======
-
 [CV](https://laurencleek.github.io/laurencleek/files/CV.pdf)
