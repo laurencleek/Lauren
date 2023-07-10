@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD trainee at the European Central Bank in the Fiscal Policies division of DG Economics. I am on a four month leave of absence from my PhD at the Political Science department of the European University Institute in Florence, Italy, where I am a second year PhD student.
+I am currently a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics. I am on a four month leave of absence from my PhD at the Political Science department of the *European University Institute* in Florence, Italy, where I am a second year **PhD researcher**.
 
 My interests include:
 ------
 - The politics of central banking
 - European fiscal integration
 - Computational social science, specifically text-as-data and machine learning
-- Political behaviour
+- Political behaviour (mass-elite linkage)
 
 My background:
 ------
