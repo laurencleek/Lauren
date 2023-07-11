@@ -20,7 +20,7 @@ My interests include:
 
 My background:
 ------
-I hold a BSc in **Liberal Arts and Sciences** with a major in Economics and a minor in Big Data from the [*Erasmus University College*](https://www.eur.nl/en/euc) in Rotterdam. I also hold a MSc in **Political Economy of Europe** from the [London School of Economics](https://www.lse.ac.uk/european-institute). I have *teaching experience* in Microeconomics (BSc level) and Quantitative methods (PhD level) and have held several RA positions. I also have various teaching and board/committee experiences outside of academia. 
+I hold a BSc in **Liberal Arts and Sciences** with a major in Economics and a minor in Big Data from the [*Erasmus University College*](https://www.eur.nl/en/euc) in Rotterdam. I also hold a MSc in **Political Economy of Europe** from the [*London School of Economics*](https://www.lse.ac.uk/european-institute). I have *teaching experience* in Microeconomics (BSc level) and Quantitative methods (PhD level) and have held several RA positions. I also have various teaching and board/committee experiences outside of academia. 
 
 Want to contact me?:
 ------
