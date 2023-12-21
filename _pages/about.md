@@ -10,8 +10,11 @@ redirect_from:
 
 I am currently a visiting PhD researcher at the London School of Economics, European Institute and a [**PhD researcher**](https://www.eui.eu/people?id=lauren-leek) at the Political and Social Science department of the *European University Institute* in Florence, Italy . I just came back from a 6 months leave of absence from my PhD during which I was a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics.
 
-My interests include:
+My interests:
 ------
+My thesis working title is: Essays in Agenda-setting, Central Bank Communication and Formal Institutional Set-ups.More generally, I am interested in applied social and policy questions which can be answered with various quantitative methods. 
+
+My interests broadly include:
 - Political economy (central banking, taxation, climate, political systems)
 - EU studies (fiscal European integration and democratic reforms)
 - Computational social science (text-as-data, large language models, machine learning)
