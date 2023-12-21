@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a visiting PhD researcher at the London School of Economics, European Institute and a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics. I just came back from a four month leave of absence from my PhD at the Political Science department of the *European University Institute* in Florence, Italy, where I just started as a third year [**PhD researcher**](https://www.eui.eu/people?id=lauren-leek).
+I am currently a visiting PhD researcher at the London School of Economics, European Institute and a [**PhD researcher**](https://www.eui.eu/people?id=lauren-leek) at the Political and Social Science department of the *European University Institute* in Florence, Italy . I just came back from a 6 months leave of absence from my PhD during which I was a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics.
 
 My interests include:
 ------
-- Quantitative political economy (central banking, taxation, climate)
-- European fiscal integration (NGEU)
-- Computational social science (text-as-data and machine learning)
-- Political behaviour (mass-elite linkage)
-- Quantitative methods (causal inference, timeseries)
+- Political economy (central banking, taxation, climate, political systems)
+- EU studies (fiscal European integration and democratic reforms)
+- Computational social science (text-as-data, large language models, machine learning)
+- Quantitative methods (causal inference, timeseries, data science)
 
 My background:
 ------
