@@ -14,8 +14,7 @@ redirect_from:
 
 My interests:
 ------
-<<<<<<< HEAD
-My thesis working title is: Essays in Agenda-setting, Central Bank Communication and Formal Institutional Set-ups. More generally, I am interested in applied social and policy questions which can be answered with various quantitative methods. 
+My thesis working title is: Essays in Agenda-setting, Central Bank Communication and Formal Institutional Set-ups. More generally, I am interested in applied social science questions which can be answered with various quantitative methods and big data.
 
 - Political Economy (inequality, central banking)
 - Computational social science (text-as-data, machine learning, social data science)
