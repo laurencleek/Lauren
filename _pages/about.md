@@ -8,14 +8,28 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
  I am a PhD researcher at the Political Science department of the *European University Institute* in Florence, Italy, where I am a third year [**PhD researcher**](https://www.eui.eu/people?id=lauren-leek). I just came back from a year long exchange at the London School of Economics. I recently took half a year leave of absence from my PhD and worked as a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics.
+=======
+I am currently a visiting PhD researcher at the London School of Economics, European Institute and a [**PhD researcher**](https://www.eui.eu/people?id=lauren-leek) at the Political and Social Science department of the *European University Institute* in Florence, Italy . I just came back from a 6 months leave of absence from my PhD during which I was a **PhD trainee** at the *European Central Bank* in the Fiscal Policies division of DG Economics.
+>>>>>>> dbd24e4b48bd1f9b0113b408d7b44c53e22ebf32
 
-My interests include:
+My interests:
 ------
+<<<<<<< HEAD
 - Political Economy
 - Computational social science (text-as-data, machine learning, big data)
 - Political behaviour (mass-elite linkage)
 - Quantitative methods (causal inference, surveys)
+=======
+My thesis working title is: Essays in Agenda-setting, Central Bank Communication and Formal Institutional Set-ups.More generally, I am interested in applied social and policy questions which can be answered with various quantitative methods. 
+
+My interests broadly include:
+- Political economy (central banking, taxation, climate, political systems)
+- EU studies (fiscal European integration and democratic reforms)
+- Computational social science (text-as-data, large language models, machine learning)
+- Quantitative methods (causal inference, timeseries, data science)
+>>>>>>> dbd24e4b48bd1f9b0113b408d7b44c53e22ebf32
 
 My background:
 ------
@@ -24,5 +38,5 @@ I hold a BSc in **Liberal Arts and Sciences** with a major in Economics and a mi
 Want to contact me?:
 ------
 Email: laurencaroline.leek@eui.eu
-or reach out via [twitter](https://twitter.com/leek_lauren)
+or reach out via [twitter](https://twitter.com/leek_lauren) or [Bluesky](https://bsky.app/profile/leeklauren.bsky.social) 
 
