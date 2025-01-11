@@ -12,8 +12,8 @@ I am a **social data scientist** and currently a PhD researcher in **political s
 
 - 🎓 **PhD Researcher** at the EUI  
 - 💡 Interested in **political economy**, **NLP**, and **data-driven insights**  
-- 🛠️ **Tech Stack**: Python, R, and a bit of SQL  
-- ⚙️ Tools I love: Pandas, scikit-learn, tidyverse, ggplot2  
+- 🛠️ **Tech Stack**: Python and R
+- ⚙️ Tools I love: Pandas, matlibplot, tidyverse, ggplot2  
 - 📫 Reach me at: **laurencaroline.leek@eui.eu**
 
 ---
