@@ -26,17 +26,6 @@ I am a **social data scientist** and currently a PhD researcher in **political s
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=laurencleek&show_icons=true&theme=react&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurencleek&layout=compact&theme=react" alt="Top Languages"/>
-</div>
-
-
-
----
-
 ## 🤝 Connect with Me
 
 - **Bluesky**: [@laurenleek.eu](https://bsky.app/profile/laurenleek.eu)  
